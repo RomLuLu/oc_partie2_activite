@@ -1,0 +1,14 @@
+Bonjour,
+
+je m'appelle romain et je viens de commencer le parcours de "dévloppeur d'application Python"lundi 21 janvier 2019.
+
+Je suis au chômage et je me suis préparé depuis septembre 2018 en suivant diverse cours/tutos sur Python pour apprendre les bases.
+
+A la base, je suis opticien mais le métier ne me correspond plus.
+
+Après diverses échanges je me suis orienté vers Python car c'est un langage de plus en plus utilisé notamment par de grande boite.
+
+Je galère pas mal pour mettre en places les idées qui me viennent pour diverses applications ou tp demandés.
+Je manque énormément de pratique mais enjoy c'est que le début ... . 
+
+Je m'étend pas plus  :)
